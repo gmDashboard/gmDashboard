@@ -4,7 +4,6 @@ numpy==1.25.0
 geopy==2.4.1
 altair==5.3.0
 watermark==2.4.3
-voila==0.2.11
-conda env update -f environment.yml
-cd notebooks/
-voila bqplot.ipynb
+voila
+numpy 
+matplotlib
