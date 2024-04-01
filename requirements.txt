@@ -6,7 +6,6 @@ altair==5.3.0
 watermark==2.4.3
 voila
 numpy 
-matplotlib
 seaborn
 ipywidgets
-
+matplotlib
