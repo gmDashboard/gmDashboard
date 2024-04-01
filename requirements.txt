@@ -9,7 +9,4 @@ numpy
 matplotlib
 seaborn
 ipywidgets
-channels:
-  - conda-forge
-dependencies:
-  - appmode
+
